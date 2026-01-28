@@ -119,7 +119,7 @@ Todo o material está disponível no GitHub:
 
 - **Universidade Federal de Itajubá (UNIFEI)**
 - **Universidade Federal do Mato Grosso do Sul (UFMS)**
-- **Centro de Monitoramento do Tempo e do Clima do Estado do MS (CEMTEC)**
+- **Centro de Monitoramento do Tempo e do Clima do Estado do Mato Grosso do Sul (CEMTEC)**
 
 ---
 
