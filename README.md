@@ -50,7 +50,8 @@
 - Plotando Painel de Imagens
 
 ### Aula 2: Analisando Dados de Relâmpagos Estimados por Satélite
-- Fundamentos dos Dados de Relâmpagos, Download, Processamento e Visualização
+- Fundamentos dos Dados de Relâmpagos, Download, Processamento e Visualização: Dados a cada 20 s da NOAA
+- Fundamentos dos Dados de Relâmpagos, Download, Processamento e Visualização: Dados a cada 5min do INPE
 - Combinação de Imagens de Satélite e Relâmpagos do GLM
 - Evolução Temporal da Temperatura de Brilho do IR e Flashes 
 
