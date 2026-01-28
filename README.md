@@ -11,11 +11,11 @@
 
 ## 📋 Informações Gerais
 
-- **Formato:** Presencial e Online
-- **Data:** 26, 27 e 28 de novembro de 2025
-- **Horário:** 09:00 às 17:00 horas (com 2h de intervalo de almoço)
-- **Local:** Universidade Federal de Itajubá (UFCG)
-- **Vagas disponíveis:** Presencial (20 vagas) e Online 40 Vagas)
+- **Formato:** Presencial 
+- **Data:** 10, 11, e 12 de março de 2026
+- **Horário:** 09:00 às 17:00 horas (com 2h00min de intervalo de almoço)
+- **Local:** Universidade Federal do Mato Grosso do Sul (UFMS)
+- **Vagas disponíveis:** Presencial - 40 vagas
 - **Carga Horária:** 18 horas
 
 ---
