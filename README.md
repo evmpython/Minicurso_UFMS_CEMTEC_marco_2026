@@ -127,7 +127,7 @@ https://github.com/evmpython/Minicurso_UFMS_CEMTEC_marco_2026
 ---
 
 ## 📂 Estrutura do Repositório do Curso
-O repositório existem 3 diretórios:
+O repositório do curso possui os diretórios seguintes:
 1. 01_utils: funções extras utilizadas nos códigos das aulas
 2. 02_figuras_produzidas: exemplos das figuras que serão produzidas no curso
 3. 03_material_complementar: material de leitura teórico complementar 
