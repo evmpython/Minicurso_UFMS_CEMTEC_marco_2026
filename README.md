@@ -30,12 +30,12 @@
 
 | Data | Horário | Carga Horária | Aulas |
 |------|---------|:-------------:|--------|
-| 10/nov | 09:00-12:00 | 3h | **AULA 1:** Visualização de Imagens de satélite GOES-16/19 |
-| 10/nov | 14:00-17:00 | 3h | **AULA 2:** Analisando dados de relâmpagos do GLM |
-| 11/nov | 09:00-12:00 | 3h | **AULA 3:** Processando e visualizando dados de Estações Meteorológicas |
-| 11/nov | 14:00-17:00 | 3h | **AULA 4:** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
-| 12/nov | 09:00-12:00 | 3h | **AULA 5:** Índices de Vegetação com Google Earth Engine |
-| 12/nov | 14:00-17:00 | 3h | **AULA 6:** Monitoramento em tempo quase-real de queimadas por Satélite |
+| 10/nov | 08:30-12:00 | 3h | **AULA 1:** Visualização de Imagens de satélite GOES-16/19 |
+| 10/nov | 13:30-17:00 | 3h | **AULA 2:** Analisando dados de relâmpagos do GLM |
+| 11/nov | 08:30-12:00 | 3h | **AULA 3:** Processando e visualizando dados de Estações Meteorológicas |
+| 11/nov | 13:30-17:00 | 3h | **AULA 4:** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
+| 12/nov | 08:30-12:00 | 3h | **AULA 5:** Índices de Vegetação com Google Earth Engine |
+| 12/nov | 13:30-17:00 | 3h | **AULA 6:** Monitoramento em tempo quase-real de queimadas por Satélite |
 
 ---
 
