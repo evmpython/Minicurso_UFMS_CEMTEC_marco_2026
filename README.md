@@ -4,7 +4,7 @@
 # Minicurso: *Processamento e Visualização de Imagens de Satélite, Relâmpagos, Dados de Precipitação, Queimadas e Índices de Vegetação com Python (PyVisSat)*
 ---
 
-### **Ministrante:** Prof. Dr. Enrique Vieira Mattos
+### Ministrante: Prof. Dr. Enrique Vieira Mattos
 **Universidade Federal de Itajubá (UNIFEI)**
 
 ---
@@ -91,7 +91,7 @@
 
 ## 🎓 Público-Alvo
 
-Estudantes de Graduação e Pós-graduação em Meteorologia da Universidade Federal de Campina Grande (UFCG).
+Estudantes de Graduação e Pós-graduação da UFMS e Servidores do CEMTEC.
 
 ---
 > [!WARNING]
