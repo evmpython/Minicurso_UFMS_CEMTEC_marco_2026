@@ -101,7 +101,7 @@
 
 ## 🎓 Público-Alvo
 
-Estudantes de Graduação e Pós-graduação da UFMS e Servidores do CEMTEC.
+Estudantes de Graduação e Pós-graduação da Universidade Federal do Mato Grosso do Sul (UFMS) e Servidores do Centro de Monitoramento do Tempo e do Clima do Estado do Mato Grosso do Sul (CEMTEC).
 
 ---
 > [!WARNING]
