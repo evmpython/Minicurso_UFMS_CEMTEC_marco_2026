@@ -93,7 +93,9 @@
 -  Índice de Vegetação com o Satélite Sentinel-2	
 
 ### Aula 6: Monitoramento de Queimadas por Satélite
-
+-  Mapas Interativos com Leafmap
+-  Mapa de Densidade de Focos de Calor
+-  Séries Temporais de Focos de Calor
 ---
 
 ## 🎓 Público-Alvo
