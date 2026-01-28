@@ -122,7 +122,7 @@ Estudantes de Graduação e Pós-graduação da Universidade Federal do Mato Gro
 ## 📁 Material do Curso
 
 Todo o material está disponível no GitHub:  
-[https://github.com/evmpython/Minicurso_UFCG_nov_2025](https://github.com/evmpython/Minicurso_UFMS_CEMTEC_marco_2026)
+
 
 ---
 
