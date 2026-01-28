@@ -55,6 +55,13 @@
 - Evolução Temporal da Temperatura de Brilho do IR e Flashes 
 
 ### Aula 3: Processando e Visualizando Dados de Estações Meteorológicas
+-	Conhecendo os dados das estações meteorológicas do INMET
+-	Mapa interativo com estações meteorológicas
+-	Climograma
+-	Série temporal horária
+-	Série temporal diária
+-	Série temporal mensal
+-	Série temporal anual
 
 ### Aula 4: Mapas e Séries Temporais de Precipitação Estimada por Satélite
 -	Conhecendo o produto MERGE 
