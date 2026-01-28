@@ -127,11 +127,14 @@ https://github.com/evmpython/Minicurso_UFMS_CEMTEC_marco_2026
 ---
 
 ## 📂 Estrutura do Repositório do Curso
-O repositório do curso possui os diretórios seguintes:
+O repositório do curso possui as seguintes informações/dados:
+
+- **Diretórios:**
 1. **01_utils:** funções extras utilizadas nos códigos das aulas
 2. **02_figuras_produzidas:** exemplos das figuras que serão produzidas no curso
 3. **03_material_complementar:** material de leitura teórico complementar 
 4. **04_logos:** logos/figura utilizadas dentros dos códigos
+5. 
 - **Códigos:**
    > **AULA_1_Plotagem_de_Imagens_de_Satelite.ipynb:**
 
