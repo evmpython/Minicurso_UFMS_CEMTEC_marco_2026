@@ -72,9 +72,9 @@
 -	Precipitação por Mês
 -	Climatologia
    > 1. Acumulado e anomalia de precipitação para um determinado mês para o Brasil
-   > 2. Acumulado médio mensal de precipitação entre 1998 e 2024 para o Nordeste
-   > 3. Acumulado e anomalia de precipitação para 2024 para o Brasil
-   > 4. Acumulado de precipitação entre 2019 e 2024 para o Nordeste
+   > 2. Acumulado médio mensal de precipitação entre 1998 e 2025 para o Mato Grosso do Sul
+   > 3. Acumulado e anomalia de precipitação para 2025 para o Brasil
+   > 4. Acumulado de precipitação entre 2020 e 2025 para o Mato Grosso do Sul
 -	Séries Temporais
    > 1. Extração de série temporal
    > 2. Série temporal total mensal 
