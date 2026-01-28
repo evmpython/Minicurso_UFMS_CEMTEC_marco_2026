@@ -125,7 +125,7 @@ https://github.com/evmpython/Minicurso_UFMS_CEMTEC_marco_2026
 ---
 
 ## 📂 Estrutura do Repositório do Curso
-O repositório do curso possui as seguintes informações/dados:
+O repositório do curso possui as seguintes diretórios e códigos python:
 
 - **Diretórios:**
    > - **01_utils:** funções extras utilizadas nos códigos das aulas
