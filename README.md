@@ -1,4 +1,4 @@
-![Texto alternativo]([caminho/para/imagem.png](https://github.com/evmpython/Minicurso_UFMS_CEMTEC_marco_2026/blob/main/04_logos/Minicurso_UFMS_CEMTEC_marco_2026.png))
+![Texto alternativo](https://raw.githubusercontent.com/evmpython/Minicurso_UFMS_CEMTEC_marco_2026/main/04_logos/Minicurso_UFMS_CEMTEC_marco_2026.png)
 ---
 
 # 💻 Minicurso: 
