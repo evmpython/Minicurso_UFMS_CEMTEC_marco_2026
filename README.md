@@ -38,7 +38,7 @@
 | 12/março | 09:00-12:00 | 3h30min | **AULA 5:** Índices de Vegetação com Google Earth Engine |
 | 12/março | 13:30-17:30 | 3h30min | **AULA 6:** Monitoramento de Queimadas por Satélite |
 
-*Cooffe Breaks: Manhãs 10:00-10:15h e Tardes 15:00-15:15h
+*Coffe Break: Todas as Manhãs das 10:00 às 10:15h e Tardes das 15:00 às 15:15h
 
 ---
 
