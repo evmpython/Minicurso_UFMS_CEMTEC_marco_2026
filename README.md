@@ -148,7 +148,7 @@ O repositório do curso possui as seguintes diretórios e códigos python:
 
 - **Universidade Federal de Itajubá (UNIFEI)**
 - **Universidade Federal do Mato Grosso do Sul (UFMS)**
-- **Centro de Monitoramento do Tempo e do Clima do Estado do Mato Grosso do Sul (CEMTEC)**
+- **Secretaria de Estado de Meio Ambiente, Desenvolvimento, Ciência, Tecnologia e Inovação do Mato Grosso do Sul (SEMADESC)**
 
 ---
 
