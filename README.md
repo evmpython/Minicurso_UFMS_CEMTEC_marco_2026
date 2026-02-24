@@ -88,13 +88,15 @@
  
 ### Aula 5: Índices de Vegetação com Google Earth Engine
 -	Mapas Interativos com Geemap
--	Conhecimentos Básicos de Índices Espectrais
--	Carregando os Dados no Google Earth Engine (GEE)
--	Plotando Mapa Interativo com Dados
--	Fazendo Animações
--  Mapas Climatológicos
--  Séries Temporais
--  Índice de Vegetação com o Satélite Sentinel-2	
+-	Conhecimentos os Índices Espectrais
+-	Conhecendo os Dados de Vegetação do Satélite TERRA
+-	Plotando Mapa Interativo com Dados - Satélite TERRA
+-	Fazendo animações - Satélite TERRA
+-	Mapas Climatológicos - Satélite TERRA
+-	Séries Temporais - Satélite TERRA
+-	Índice de Vegetação com o Satélite Sentinel-2
+-	NDVI com os Satélites da Série Landsat
+-	Biblioteca Spyndex para Cálculo de Índices Espectrais
 
 ### Aula 6: Monitoramento de Queimadas por Satélite
 -  Mapas Interativos com Leafmap
