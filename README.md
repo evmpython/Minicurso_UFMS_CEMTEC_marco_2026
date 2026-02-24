@@ -101,7 +101,8 @@
 -  Conhecendo e Acessando os Dados de Focos de Calor Fornecidos pelo INPE
 -  Mapas Interativos de Focos de Calor
 -  Mapa de Acumulado de Focos de Calor
--  Mapa de Acumulado e Anomalia de Focos de Calor '0. Séries Temporais de Focos de Calor
+-  Mapa de Acumulado e Anomalia de Focos de Calor
+-  Séries Temporais de Focos de Calor
 -  Risco de Fogo Observado
 -  Risco de Fogo Previsto
 ---
