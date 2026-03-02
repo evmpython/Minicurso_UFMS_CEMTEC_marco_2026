@@ -90,7 +90,7 @@
    > 6. Série temporal anual
    > 7. Série temporal da anomalia anual
  
-### Aula 5: Índices de Vegetação com Google Earth Engine
+### Aula 5: Índices de Vegetação com Google Earth Engine (GEE)
 -	Mapas Interativos com Geemap
 -	Conhecimendo os Índices Espectrais
 -	Conhecendo os Dados de Vegetação do Satélite TERRA
